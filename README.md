@@ -11,5 +11,5 @@ It is a simple django project or website in which we can Analyze text.
 * Character Counter
 
 ##Requirments:
--python3
--django
+-python3<br>
+-django<br>
