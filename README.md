@@ -10,6 +10,6 @@ It is a simple django project or website in which we can Analyze text.
 * Extra Spaces Remover
 * Character Counter
 
-##Requirments:
+##Requirments:<br>
 -python3<br>
 -django<br>
